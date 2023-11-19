@@ -1,7 +1,7 @@
 # ec2b4PoseidonProject
 Group Poseidon
 
-Proposed Project:Student Attendance System
+Proposed Project: Student Attendance System
 
 
 Features:
